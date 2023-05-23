@@ -1,4 +1,4 @@
-![MasterHead](/banner.png)
+![MasterHead]()
 
 <h1 align="center">Hi 👋, I'm Christopher Morales</h1>
 <h3 align="center">A passionate frontend developer from Edinburg, Texas.</h3>
