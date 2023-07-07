@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/christopher-morales-121293130/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christopher-morales-121293130/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/christopher-morales-121293130/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christopher-morales-121293130/" height="30" width="40" /></a> <a href="https://github.com/christophermoraleswebdev" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="GitHub" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
