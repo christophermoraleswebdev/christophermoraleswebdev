@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **christopher.moraleswebdev@gmail.com**
 
-- 📄 Here's my <a>Resume</a> [https://docs.google.com/document/d/1qO68bZuLZ0ftlELrCv_DMlp9S5dAp8oJNBVvcyPvWfo/edit?usp=sharing](https://docs.google.com/document/d/1qO68bZuLZ0ftlELrCv_DMlp9S5dAp8oJNBVvcyPvWfo/edit?usp=sharing)
+- 📄 Here's my Resume:  [https://docs.google.com/document/d/1qO68bZuLZ0ftlELrCv_DMlp9S5dAp8oJNBVvcyPvWfo/edit?usp=sharing](https://docs.google.com/document/d/1qO68bZuLZ0ftlELrCv_DMlp9S5dAp8oJNBVvcyPvWfo/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
