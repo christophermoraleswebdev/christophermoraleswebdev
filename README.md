@@ -3,7 +3,7 @@
 <h2 align="left">About Me: </h2>
 <p>I'm a Software Engineer who loves creating user-friendly websites and applications. With a background in education and finance, I bring a fresh perspective to problem-solving. I approach every project with a positive attitude and a commitment to learning the latest technology trends. My goal is to use my problem-solving, organization, and continuous learning skills to make a significant impact in cutting-edge software engineering.
 <br />
-
+<br />
 <img align="right" alt="Working" width="300" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 - 🔭 I’m currently working on **my Portfolio**
