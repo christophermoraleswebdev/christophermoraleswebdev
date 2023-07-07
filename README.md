@@ -6,11 +6,11 @@
 <br />
 <img align="right" alt="Working" width="300" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🔭 I’m currently working on **my Portfolio**
+🔭 I’m currently working on **my Portfolio**
 
-- 📫 How to reach me **christopher.moraleswebdev@gmail.com**
+📫 How to reach me **christopher.moraleswebdev@gmail.com**
 
-- 📄 Here's my Resume:  [https://docs.google.com/document/d/1qO68bZuLZ0ftlELrCv_DMlp9S5dAp8oJNBVvcyPvWfo/edit?usp=sharing](https://docs.google.com/document/d/1qO68bZuLZ0ftlELrCv_DMlp9S5dAp8oJNBVvcyPvWfo/edit?usp=sharing)
+📄 Here's my Resume:  [https://docs.google.com/document/d/1qO68bZuLZ0ftlELrCv_DMlp9S5dAp8oJNBVvcyPvWfo/edit?usp=sharing](https://docs.google.com/document/d/1qO68bZuLZ0ftlELrCv_DMlp9S5dAp8oJNBVvcyPvWfo/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
